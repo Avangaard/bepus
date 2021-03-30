@@ -1,0 +1,37 @@
+/* SELEKTORY: */
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #003868;
+	background-color: #2f79a8;
+	margin: 6mm;
+}
+
+#table1 {
+	border-style: solid;
+	border-width: 4px;
+	border-color: #333388;
+	border-spacing: 0px;
+}
+
+#row1 {
+	background-color: #115599;	
+}
+
+#row2 {
+	background-color: #66aaee;	
+}
+
+#lmao1 {
+	background-color: #66aaee;	
+}
+
+#img1 {
+	border-style: solid;
+	border-width: 10px;
+	border-color: #115599;	
+}
+
+
+#ffcccc
+style="background-color:#ee9999"
